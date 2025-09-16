@@ -62,12 +62,4 @@ node server.js
    Authorization: Bearer <your_token>
 
 
-## 🔗 Live URLs
 
-- ✅ Backend API: [https://job-board-project-server-production.up.railway.app](https://job-board-project-server-production.up.railway.app)
-
-### Example Endpoints:
-
-- `GET /api/jobs` → https://job-board-project-server-production.up.railway.app/api/jobs
-- `POST /api/jobs` (Admin only — needs token)
-- `POST /api/applications`
